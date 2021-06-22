@@ -1,3 +1,7 @@
+# I am Kaiwalya, Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+I am Kaiwalya Koparkar, currently pursuing my diploma majoring in computer science from [State University Of bangladesh](https://sub.edu.bd). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -28,5 +32,8 @@ Here are some ideas to get you started:
 </p>
 
 
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=KsSadi&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<p align="center"><img alt="Visitors" src="https://komarev.com/ghpvc/?username=KsSadi&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+   </p>
+
+<p align="center">Thanks for visiting! See you around  </p>
 
