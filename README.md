@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshu-on-github&layout=compact&theme=radical&card_width=275)](https://github.com/Akshu-on-github)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KsSadi&layout=compact&theme=radical&card_width=275)](https://github.com/Akshu-on-github)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KsSadi&show_icons=true&theme=tokyonight" />
