@@ -1,7 +1,8 @@
 ## I am Sadi, Great to see you here! 
 
-I am Md. Khaled saifullah Sadi , currently studying BSc in Computer Science And Engineering from [State University Of bangladesh](https://sub.edu.bd). 
-
+As-Salamu Alaikum, I am Md. Khaled Saifullah Sadi , currently studying BSc in Computer Science And Engineering from [State University Of bangladesh](https://sub.edu.bd). 
+I like to do works related with web development. I have captured the C, C++, Java & also trying to capture the Python.
+My dream is to become a best full stack developer .Also I am the entrepreneur of [Priyojon.Com.bd](https://priyojon.com.bd)
 <br>
 
 ## Tech-Stacks 👨‍💻
@@ -13,6 +14,13 @@ I am Md. Khaled saifullah Sadi , currently studying BSc in Computer Science And 
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
  <img alt="Python" src="https://img.shields.io/badge/python-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </span>
+ <span align="ceneter">
+ <h3>Back-End Web-Development 🖥️</h3>
+ <img alt="PHP" src="https://img.shields.io/badge/php-%23E34F26.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+ <img alt="laravel" src="https://img.shields.io/badge/laravel-%231572B6.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
+ 
+</span>
+ 
 <span align="ceneter">
  <h3>Front-End Web-Development 🖥️</h3>
  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
