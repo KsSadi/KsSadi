@@ -16,9 +16,9 @@ My dream is to become a best full stack developer .Also I am the entrepreneur of
 </span>
  <span align="ceneter">
  <h3>Back-End Web-Development 🖥️</h3>
- <img alt="PHP" src="https://img.shields.io/badge/php-%23E34F26.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+ <img alt="PHP" src="https://img.shields.io/badge/php-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white"/>
  <img alt="laravel" src="https://img.shields.io/badge/laravel-%231572B6.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
- 
+ <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%231572B6.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </span>
  
 <span align="ceneter">
