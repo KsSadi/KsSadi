@@ -39,6 +39,7 @@ My dream is to become a best full stack developer .Also I am the entrepreneur of
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KsSadi&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KsSadi&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KsSadi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
  
 </p>
 
